@@ -1,3 +1,5 @@
-# Sen Browser Core
+![Sen Browser](https://github.com/Senagun-Dev/sen-browser/blob/master/docs/source/_static/SenBrowser-Core.png)
 
-Sen Browser Core is a set of changes, APIs, and scripts used for customizing Chromium to make the Sen browser. Please also check https://github.com/senagun-dev/sen-browser
+# SenBrowser-Core
+
+Sen-Browser-Core is a set of changes, APIs, and scripts used for customizing Chromium and Brave to make the Sen Browser. Please also check https://github.com/senagun-dev/sen-browser
