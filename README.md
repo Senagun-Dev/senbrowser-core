@@ -1,4 +1,4 @@
-![Sen Browser](https://github.com/Senagun-Dev/sen-browser/blob/master/docs/source/_static/SenBrowser-Core.png)
+![Sen Browser](https://github.com/Senagun-Dev/sen-browser/blob/master/docs/source/_static/SenBrowser-core.png)
 
 # SenBrowser-Core
 
